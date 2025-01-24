@@ -246,3 +246,6 @@ BCNF(boyce/Codd Normal Form)
 
 2025.01.21 
 SQL쪽 보기
+
+2025.01.24
+커밋용 메모
